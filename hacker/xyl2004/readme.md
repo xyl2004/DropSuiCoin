@@ -1,7 +1,7 @@
 ## project
 - 项目名称: **DropSui - ESP32传感器监控与Sui区块链集成系统**
-> 描述: 一个完整的ESP32传感器监控系统，集成Sui区块链钱包管理、定投计划和Bucket Protocol理财功能
-- Sui钱包地址: **0x9756f8ef063fb0eef07a0776923df951c757bc50175acbc6492ebd52fca2834a**
+> 描述: 一个存钱罐定投产品，集成Sui区块链钱包管理、定投计划和Bucket Protocol理财功能
+- Sui钱包地址: **0x34efb4b67b5f2f11e0eef76c5a94356bab10c71a1c6ef81a90d2689d060f77dd**
 > 描述: 用于接收奖励和测试交易
 
 ## 参与赛道
@@ -12,7 +12,7 @@
 
 ## Member
 - [xyl2004](https://github.com/xyl2004)
-> 自我介绍&技术栈: 全栈开发工程师，擅长React、Node.js、Python、ESP32开发，对区块链和DeFi有深入研究
+> 自我介绍&技术栈: 全栈小白 混迹于运营和开发之间
 
 ## 参赛信息
 - [项目代码](https://github.com/xyl2004/DropSui)
